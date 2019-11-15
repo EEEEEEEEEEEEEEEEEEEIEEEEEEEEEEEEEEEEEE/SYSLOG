@@ -1,2 +1,3 @@
-# SYSLOG
-My current syslog configuration to have a full overview of everything
+# SYSLOG-NG
+
+Just a backup of my syslog-ng.conf file
